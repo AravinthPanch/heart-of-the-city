@@ -1,0 +1,13 @@
+Will there only be 1 pulse sensor? So the other people sitting on it do not influence the sculpture?
+Yes, it will have only one pulse sensor that will light on and off the entire sculpture. People will use it one by one. People can be inside the sculpture feeling the pulse of others while other people are using it.
+ 
+Can it connect to a screen? How would you implement your project on a low-res façade?
+ Yes. The sensor can also send the info to the façade and light on and off according to the rhythm of the person who is touching the sensor inside the Heart of the City sculpture. I can create a simple red pulse animation for low res facades.
+ 
+Can it connect two cities?
+Yes, it could send the sensor info to another city and pulse two/ three media facades at the same time.
+ 
+What is the sculpture made out of and would it need to be shipped or created specifically for each location?
+The sculpture structure is made of Styrofoam and covered with 300 meters of LED NEON FLEX. Yes, when the sculpture is ready, it will need to be transported to other cities by truck in Europe or by ship to other continents.
+ 
+The project was selected to be developed in Vivid Light Festival in Sydney, Australia in April and May of 2015. They are providing 8.000 AUS dolars for total production of the sculpture in Sydney. I am going there for one month (15 april/15 May) to build the project. In February and March I will make all the plans in Berlin with the collaborators Nabhila (designer) and Aravinth (Engineer).
