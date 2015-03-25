@@ -57,6 +57,8 @@ The wooden shape is covered with LED Neon flex to create a skin-feel touch.
 
 ![Layer](./document/image/layer-1.png "INTERNAL STRUCTURE")
 
+### CIRCUIT DIAGRAM
+![WIRING](./document/image/wiring.png "CIRCUIT DIAGRAM")
 
 ### PULSE SENSOR
 <p align="justify">
