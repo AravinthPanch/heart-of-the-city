@@ -56,7 +56,7 @@ void setup() {
 // GO FIND THE ARDUINO
   println(Serial.list());    // print a list of available serial ports
   // choose the number between the [] that is connected to the Arduino  
-  port = new Serial(this, "/dev/tty.usbmodem1411", 115200);  // make sure Arduino is talking serial at this baud rate
+  port = new Serial(this, "/dev/tty.usbmodem1451", 115200);  // make sure Arduino is talking serial at this baud rate
   port.clear();            // flush buffer
   port.bufferUntil('\n');  // set buffer full flag on receipt of carriage return
 }

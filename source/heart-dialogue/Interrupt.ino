@@ -8,7 +8,7 @@ volatile unsigned long sampleCounter = 0;
 // used to find IBI
 volatile unsigned long lastBeatTime = 0;
 // used to find peak in pulse wave, seeded
-volatile int P =512;
+volatile int P = 512;
 // used to find trough in pulse wave, seeded
 volatile int T = 512;
 // used to find instant moment of heart beat, seeded
@@ -46,7 +46,7 @@ ISR(TIMER2_COMPA_vect) {
 
   // find the peak and trough of the pulse wave
   // avoid dichrotic noise by waiting 3/5 of last IBI
-  if ((Signal < thresh) && (N > (IBI/5)*3)) {
+  if ((Signal < thresh) && (N > (IBI / 5) * 3)) {
     // T is the trough
     if (Signal < T) {
       // keep track of lowest point in pulse wave
@@ -64,7 +64,7 @@ ISR(TIMER2_COMPA_vect) {
   // signal surges up in value every time there is a pulse
   // avoid high frequency noise
   if (N > 250) {
-    if ((Signal > thresh) && (Pulse == false) && (N > (IBI/5)*3)) {
+    if ((Signal > thresh) && (Pulse == false) && (N > (IBI / 5) * 3)) {
       // set the Pulse flag when we think there is a pulse
       Pulse = true;
       // turn on pin 13 LED
@@ -104,7 +104,7 @@ ISR(TIMER2_COMPA_vect) {
       // shift data in the rate array
       for (int i = 0; i <= 8; i++) {
         // and drop the oldest IBI value
-        rate[i] = rate[i+1];
+        rate[i] = rate[i + 1];
         // add up the 9 oldest IBI values
         runningTotal += rate[i];
       }
@@ -116,7 +116,7 @@ ISR(TIMER2_COMPA_vect) {
       // average the last 10 IBI values
       runningTotal /= 10;
       // how many beats can fit into a minute? that's BPM!
-      BPM = 60000/runningTotal;
+      BPM = 60000 / runningTotal;
       // set Quantified Self flag
       QS = true;
       // QS FLAG IS NOT CLEARED INSIDE THIS ISR
@@ -132,7 +132,7 @@ ISR(TIMER2_COMPA_vect) {
     // get amplitude of the pulse wave
     amp = P - T;
     // set thresh at 50% of the amplitude
-    thresh = amp/2 + T;
+    thresh = amp / 2 + T;
     // reset these for next time
     P = thresh;
     T = thresh;

@@ -92,29 +92,29 @@ void setup() {
 }
 
 
-void loop(){
+void loop() {
   // send Processing the raw Pulse Sensor data
   sendDataToProcessing('S', Signal);
   // Quantified Self flag is true when arduino finds a heartbeat
   if (QS == true) {
-        blinkTime = millis();
-        // Set 'fadeRate' Variable to 255 to fade LED with pulse
-        fadeRate = 255;
-        // Set 'fadeRate' Variable to 255 to fade LED with pulse
-        fade1Rate = 255;
-        // send heart rate with a 'B' prefix
-        sendDataToProcessing('B', BPM);
-        // send time between beats with a 'Q' prefix
-        sendDataToProcessing('Q', IBI);
-        // reset the Quantified Self flag for next time
-        QS = false;
-     }
+    blinkTime = millis();
+    // Set 'fadeRate' Variable to 255 to fade LED with pulse
+    fadeRate = 255;
+    // Set 'fadeRate' Variable to 255 to fade LED with pulse
+    fade1Rate = 255;
+    // send heart rate with a 'B' prefix
+    sendDataToProcessing('B', BPM);
+    // send time between beats with a 'Q' prefix
+    sendDataToProcessing('Q', IBI);
+    // reset the Quantified Self flag for next time
+    QS = false;
+  }
 
   ledBlinkToBeat();
   ledFadeToBeat();
 
   // take a break
-  delay(20);
+  delay(25);
 }
 
 
@@ -129,7 +129,7 @@ void sendDataToProcessing(char symbol, int data) {
 void ledBlinkToBeat() {
   // blink LED
   //analogWrite(blinkLedPin, fadeRate);
-  if (millis() - blinkTime <= IBI/2.0) {
+  if (millis() - blinkTime <= IBI / 2.0) {
     blinkRate = HIGH;
   }
   else {
