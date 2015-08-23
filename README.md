@@ -35,7 +35,6 @@ The structure will be robust, waterproof, durable and its shape will be adapted
 and can be scaled according to the space around it.
 </p>
 
-<p align="center">
 <table">
 <td><img src="./image/model-1.jpg"></td>
 <td><img src="./image/model-2.jpg"></td>
@@ -45,7 +44,7 @@ and can be scaled according to the space around it.
 <td><img src="./image/model-4.jpg"></td>
 </tr>
 </table>
-</p>
+
 
 
 ### INTERNAL STRUCTURE
