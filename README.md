@@ -37,12 +37,12 @@ and can be scaled according to the space around it.
 
 <p align="center">
 <table">
-<td><img src="./image/model-2.png"></td>
-<td><img src="./image/model-3.png"></td>
+<td><img src="./image/model-1.jpg"></td>
+<td><img src="./image/model-2.jpg"></td>
 </tr>
 <tr>
-<td><img src="./image/model-4.png"></td>
-<td><img src="./image/model-5.png"></td>
+<td><img src="./image/model-3.jpg"></td>
+<td><img src="./image/model-4.jpg"></td>
 </tr>
 </table>
 </p>
