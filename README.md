@@ -18,7 +18,7 @@ ACKNOWLEDGEMENTS
 - Greg Dalsanto: Technical Officer (Fabrication), University of Technology Sydney
 - Raja Natkunarajah: Building Supervisor (Electrician), University of Technology Sydney
 
-DESIGN
+STRUCTURAL DESIGN
 --------------------------------------
 ### MODEL
 <p align="justify">
@@ -39,16 +39,7 @@ The shape of the sculpture comes from an original human heart model that I modif
 <img src="./image/maquette.jpg" width=80% height=80%>
 </p>
 
-### INTERNAL STRUCTURE
-<p align="justify">
-The interior structure will be made of mdf wood pieces shaped with laser cutting.
-The inside will be empty to store the electronics and the micro-controler.
-The wooden shape is covered with LED Neon flex to create a skin-feel touch.
-</p>
-
-![Layer](./document/image/layer-1.png "INTERNAL STRUCTURE")
-
-### CIRCUIT DIAGRAM
+### CIRCUIT DESIGN
 ![WIRING](./document/image/wiring.png "CIRCUIT DIAGRAM")
 
 ### PULSE SENSOR
