@@ -1,13 +1,7 @@
 Heart Of The City
 ==================================================================
 <p align="justify">
-The Heart of the city is an interactive public art sculpture that pulses light according to the heartbeat
-of the people. The sculpture invites several people to sit and interactive with it.
-When a person places its finger on the pulse sensor located in one of the seats of the sculpture,
-it starts light on and off according with the rhythm of the heart beat of the user. When nobody is
-touching the pulse sensor, the Heart of the City has its own rhythm and illumination.
-The piece aims to bring closer the heartbeat of the citizens by creating a heart to the city where
-people could hang out and experience an expansion of their own heart shared with others.
+The Heart of the city is an interactive public art sculpture that pulses light according to the heartbeat of the people. The sculpture invites several people to sit and interactive with it. When a person places a finger on the pulse sensor located in one of the seats of the sculpture, it starts light on and off according with the rhythm of the heart beat of the user. When nobody is touching the pulse sensor, the Heart of the City has its own rhythm and illumination. The piece aims to bring closer the heartbeat of the citizens by creating a heart to the city where people could hang out and experience an expansion of their own heart shared with others.
 </p>
 
 [![VIDEO](./image/vimeo.jpg)](https://vimeo.com/129294048 "Click to Watch!")
@@ -41,15 +35,17 @@ The structure will be robust, waterproof, durable and its shape will be adapted
 and can be scaled according to the space around it.
 </p>
 
-<table>
-<td><img src="./document/image/model-2.png"></td>
-<td><img src="./document/image/model-3.png"></td>
+<p align="center">
+<table">
+<td><img src="./image/model-2.png"></td>
+<td><img src="./image/model-3.png"></td>
 </tr>
 <tr>
-<td><img src="./document/image/model-4.png"></td>
-<td><img src="./document/image/model-5.png"></td>
+<td><img src="./image/model-4.png"></td>
+<td><img src="./image/model-5.png"></td>
 </tr>
 </table>
+</p>
 
 
 ### INTERNAL STRUCTURE
