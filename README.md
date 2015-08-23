@@ -1,8 +1,5 @@
 Heart Of The City
 ==================================================================
-
-INTRODUCTION
---------------------------------------
 <p align="justify">
 The Heart of the city is an interactive public art sculpture that pulses light according to the heartbeat
 of the people. The sculpture invites several people to sit and interactive with it.
@@ -16,10 +13,11 @@ people could hang out and experience an expansion of their own heart shared with
 ![Heart](./document/image/intro.png "Heart of the City")
 
 
-COLLABORATORS
+AUTHOR
 --------------------------------------
-- Anaisa Franco
-- Aravinth Panchadcharam
+- Anaisa Franco <http://www.anaisafranco.com>
+- Aravinth Panchadcharam <http://aravinth.info>
+- Annie McKinnon <http://anniemckinnon.tumblr.com>
 
 
 DESIGN
