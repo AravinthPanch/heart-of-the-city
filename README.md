@@ -36,25 +36,12 @@ The shape of the sculpture comes from an original human heart model that I modif
 
 ### CERAMIC MAQUETTE
 <p align="center">
-<img src="./image/maquette.jpg" width=80% height=80%>
+<img src="./image/maquette.jpg" width=70% height=70%>
 </p>
 
 CIRCUIT DESIGN
 --------------------------------------
-![WIRING](./document/image/wiring.png "CIRCUIT DIAGRAM")
-
-### PULSE SENSOR
-<p align="justify">
-The pulse sensor will be place on the sculpture. People need to sit on the sculpture
-and place their finger on the sensor. Suddenly it will light on and off following
-the participant’s heartbeat.
+<p align="center">
+<img src="./image/schematic.png" width=70% height=70%>
 </p>
-![pulse](./document/image/pulse.png "Pulse Sensor")
 
-
-### LED NEON FLEX
-![LED](./document/image/led-1.png "LED NEON")
-
-
-### PROTOTYPE
-![PROTOTYPE](./document/image/el-wire.png "PROTOTYPE")
