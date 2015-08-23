@@ -18,24 +18,14 @@ ACKNOWLEDGEMENTS
 - Greg Dalsanto: Technical Officer (Fabrication), University of Technology Sydney
 - Raja Natkunarajah: Building Supervisor (Electrician), University of Technology Sydney
 
-
-
 DESIGN
 --------------------------------------
 ### CONCEPT OF MODEL
 <p align="justify">
-The shape of the sculpture comes from an original human heart model that I
-modified to get the desired shape for the project.
-The sculpture will fit several people at the same time.
-It will have only one pulse sensor located in one of the seats that will pulse the
-light of the entire sculpture on and off. It can only be activated by one person at
-a time.
-The sculpture surface will be 10 m2.
-The structure will be robust, waterproof, durable and its shape will be adapted
-and can be scaled according to the space around it.
+The shape of the sculpture comes from an original human heart model that I modified to get the desired shape for the project. The sculpture will fit several people at the same time. It will have only one pulse sensor located in one of the seats that will pulse the light of the entire sculpture on and off. It can only be activated by one person at a time. The sculpture surface will be 10 m2. The structure will be robust, waterproof, durable and its shape will be adapted and can be scaled according to the space around it.
 </p>
 
-<table">
+<table>
 <td><img src="./image/model-1.jpg"></td>
 <td><img src="./image/model-2.jpg"></td>
 </tr>
