@@ -42,6 +42,6 @@ The shape of the sculpture comes from an original human heart model that I modif
 CIRCUIT DESIGN
 --------------------------------------
 <p align="center">
-<img src="./image/schematic.png" width=70% height=70%>
+<img src="./image/schematic.png">
 </p>
 
