@@ -10,8 +10,7 @@ The piece aims to bring closer the heartbeat of the citizens by creating a heart
 people could hang out and experience an expansion of their own heart shared with others.
 </p>
 
-![Heart](./document/image/intro.png "Heart of the City")
-
+[![VIDEO](./image/vimeo.jpg)](https://vimeo.com/129294048 "Click to Watch!")
 
 AUTHOR
 --------------------------------------
