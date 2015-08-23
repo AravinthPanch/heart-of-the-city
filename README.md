@@ -18,6 +18,13 @@ AUTHOR
 - Aravinth Panchadcharam <http://aravinth.info>
 - Annie McKinnon <http://anniemckinnon.tumblr.com>
 
+ACKNOWLEDGEMENTS
+--------------------------------------
+- Giang Dinh : Technical Officer (Electronics), University of Technology Sydney
+- Greg Dalsanto: Technical Officer (Fabrication), University of Technology Sydney
+- Raja Natkunarajah: Building Supervisor (Electrician), University of Technology Sydney
+
+
 
 DESIGN
 --------------------------------------
