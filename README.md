@@ -39,7 +39,8 @@ The shape of the sculpture comes from an original human heart model that I modif
 <img src="./image/maquette.jpg" width=80% height=80%>
 </p>
 
-### CIRCUIT DESIGN
+CIRCUIT DESIGN
+--------------------------------------
 ![WIRING](./document/image/wiring.png "CIRCUIT DIAGRAM")
 
 ### PULSE SENSOR
