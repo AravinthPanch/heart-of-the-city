@@ -69,19 +69,29 @@ MATERIAL
         <li>Type - N-CHANNEL</li>
         <li>Drain-source Voltage (VDS) - 60V</li>
         <li>Drain Current (ID) - 16A</li>
-        <li>Static Drain-source On Resistance - 0.07 Ω </li>
+        <li>Static Drain-source On Resistance (RDS) - 0.07 Ω </li>
       </ul>
       </td>
       <td>
         <img src="./image/mosfet.jpg" width=30% height=30%>
       </td>
     <tr>
-  </table>
+</table>
 
 ### BCI Pulse Oximeter
-<p align="center">
-<img src="./image/bci-pulse.jpg" width=30% height=30%>
-</p>
-
+<table>
+    <tr>
+      <td>
+      <ul>
+        <li>Non-Invasive Pulse Oximeter</li>
+        <li>Infrared Sensors</li>
+        <li>RS-232 Signal</li>
+      </ul>
+      </td>
+      <td>
+        <img src="./image/bci-pulse.jpg" width=30% height=30%>
+      </td>
+    <tr>
+</table>
 
 
