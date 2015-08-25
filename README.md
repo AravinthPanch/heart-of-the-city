@@ -56,11 +56,32 @@ MATERIAL
 
 ### LED Driver
 
-### Arduino UNO
+### Arduino UNO R3
+<p align="center">
+<img src="./image/arduino_uno.jpg" width=80% height=80%>
+</p>
 
 ### MOSFET STP16NF06L 
+<table>
+    <tr>
+      <td>
+      <ul>
+        <li>Type - N-CHANNEL</li>
+        <li>Drain-source Voltage (VDS) - 60V</li>
+        <li>Drain Current (ID) - 16A</li>
+        <li>Static Drain-source On Resistance - 0.07 Ω </li>
+      </ul>
+      </td>
+      <td>
+        <img src="./image/mosfet.jpg" width=30% height=30%>
+      </td>
+    <tr>
+  </table>
 
 ### BCI Pulse Oximeter
+<p align="center">
+<img src="./image/bci-pulse.jpg" width=30% height=30%>
+</p>
 
 
 
