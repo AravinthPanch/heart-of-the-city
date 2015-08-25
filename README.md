@@ -45,3 +45,22 @@ CIRCUIT DESIGN
 <img src="./image/schematic.png">
 </p>
 
+MATERIAL
+--------------------------------------
+### Styrofoam
+<p align="center">
+<img src="./image/styrofoam.jpg" width=80% height=80%>
+</p>
+
+### LED Neon Flex
+
+### LED Driver
+
+### Arduino UNO
+
+### MOSFET STP16NF06L 
+
+### BCI Pulse Oximeter
+
+
+
