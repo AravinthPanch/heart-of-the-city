@@ -79,7 +79,7 @@ MATERIAL
 </table>
 
 ### BCI Pulse Oximeter
-<table>
+<table style="border: none">
     <tr>
       <td>
       <ul>
