@@ -57,9 +57,21 @@ MATERIAL
 ### LED Driver
 
 ### Arduino UNO R3
-<p align="center">
-<img src="./image/arduino_uno.jpg" width=80% height=80%>
-</p>
+<table>
+    <tr>
+      <td>
+      <ul>
+        <li>ATmega328P Microcontroller</li>
+        <li>5V Operating Voltage</li>
+        <li>6 GPIO for PWM Output</li>
+        <li>14 Digital GPIO</li>
+      </ul>
+      </td>
+      <td>
+        <img src="./image/arduino_uno.jpg" width=80% height=80%>
+      </td>
+    <tr>
+</table>
 
 ### MOSFET STP16NF06L 
 <table>
