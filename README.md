@@ -83,13 +83,14 @@ MATERIAL
     <tr>
       <td>
       <ul>
-        <li>Non-Invasive Pulse Oximeter</li>
+        <li>Non-Invasive Photoplethysmogram Medical Device</li>
+        <li>Heartbeat and Oxigen saturation measurement</li>
         <li>Infrared Sensors</li>
         <li>RS-232 Signal</li>
       </ul>
       </td>
       <td>
-        <img src="./image/bci-pulse.jpg" width=30% height=30%>
+        <img src="./image/bci-pulse.jpg" width=40% height=40%>
       </td>
     <tr>
 </table>
