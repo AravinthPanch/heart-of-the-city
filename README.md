@@ -45,3 +45,66 @@ CIRCUIT DESIGN
 <img src="./image/schematic.png">
 </p>
 
+MATERIAL
+--------------------------------------
+### Styrofoam
+<p align="center">
+<img src="./image/styrofoam.jpg" width=80% height=80%>
+</p>
+
+### LED Neon Flex
+
+### LED Driver
+
+### Arduino UNO R3
+<table>
+    <tr>
+      <td>
+      <ul>
+        <li>ATmega328P Microcontroller</li>
+        <li>5V Operating Voltage</li>
+        <li>6 GPIO for PWM Output</li>
+        <li>14 Digital GPIO</li>
+      </ul>
+      </td>
+      <td>
+        <img src="./image/arduino_uno.jpg" width=80% height=80%>
+      </td>
+    <tr>
+</table>
+
+### MOSFET STP16NF06L 
+<table>
+    <tr>
+      <td>
+      <ul>
+        <li>Type - N-CHANNEL Power MOSFET</li>
+        <li>Drain-source Voltage (VDS) - 60V</li>
+        <li>Drain Current (ID) - 16A</li>
+        <li>Static Drain-source On Resistance (RDS) - 0.07 Ω </li>
+      </ul>
+      </td>
+      <td>
+        <img src="./image/mosfet.jpg" width=30% height=30%>
+      </td>
+    <tr>
+</table>
+
+### BCI Pulse Oximeter
+<table>
+    <tr>
+      <td>
+      <ul>
+        <li>Non-Invasive Photoplethysmogram Medical Device</li>
+        <li>Heartbeat and Oxigen saturation measurement</li>
+        <li>Infrared Sensors</li>
+        <li>RS-232 Signal</li>
+      </ul>
+      </td>
+      <td>
+        <img src="./image/bci-pulse.jpg" width=40% height=40%>
+      </td>
+    <tr>
+</table>
+
+
