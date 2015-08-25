@@ -78,7 +78,7 @@ MATERIAL
     <tr>
       <td>
       <ul>
-        <li>Type - N-CHANNEL</li>
+        <li>Type - N-CHANNEL Power MOSFET</li>
         <li>Drain-source Voltage (VDS) - 60V</li>
         <li>Drain Current (ID) - 16A</li>
         <li>Static Drain-source On Resistance (RDS) - 0.07 Ω </li>
